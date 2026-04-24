@@ -11,10 +11,10 @@ document.getElementById("menu").innerHTML=`
                 <a class="nav-link" href="index.html">Nyítólap</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="nevezetessegek.html   ">Nevezetességek</a>
+                <a class="nav-link" href="nevezetessegek.html">Nevezetességek</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
+                <a class="nav-link" href="japan.html">Japán</a>
               </li>
             </ul>
           </div>
