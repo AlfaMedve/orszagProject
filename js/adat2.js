@@ -20,12 +20,7 @@ const japanTomb=[
         "kep":""  
     },
     {
-        "szokas":"Ajándékozás (Okurimono)",
-        "mondat":"Japánban az ajándék csomagolása gyakran fontosabb, mint maga a tartalom. Külön hagyománya van az évközi ajándékozásnak (Ocsúgen és Oszeibo), amellyel a hálát fejezik ki az ismerősök és üzletfelek felé.",
-        "kep":""  
-    },
-    {
-        "szokas":"Fürdőkultúra (Oszon )",
+        "szokas":"Fürdőkultúra (Oszon)",
         "mondat":"A vulkanikus tevékenységnek köszönhetően a termálvizes fürdők látogatása nemzeti hobbi. A közösségi fürdőzésnek szigorú szabályai vannak, például a medencébe lépés előtt alaposan meg kell tisztálkodni.",
         "kep":""  
     },
@@ -45,7 +40,7 @@ const japanTomb=[
         "kep":""  
     },
     {
-        "szokas":"Szuvenír (Omijage )",
+        "szokas":"Szuvenír (Omijage)",
         "mondat":"Amikor valaki utazni megy, szinte kötelező helyi specialitásokat (általában szépen csomagolt édességet) hoznia a kollégáinak és családtagjainak. Ez a gesztus segít fenntartani a jó kapcsolatokat és ellensúlyozza a távollét miatti kiesést a munkából.",
         "kep":""  
     },
@@ -54,8 +49,14 @@ const japanTomb=[
         "mondat":"Bár a mindennapokban a nyugati ruházat dominál, fesztiválokon, esküvőkön és diplomázáskor ma is sokan viselnek tradicionális öltözetet. A jukata a kimono könnyedebb, pamutból készült változata, amelyet főleg nyári ünnepségeken hordanak.",
         "kep":""  
     },
-    
-
-
-    
+    { 
+        "szokas" : "Pénzkezelés (O-tacsi)", 
+        "mondat": "Japánban udvariatlanságnak számít a pénzt közvetlenül kézből kézbe adni. Az üzletekben és éttermekben egy kis tálcát (tray) használnak erre a célra, amire a vásárló helyezi az összeget, és a visszajárót is ezen kapja meg. Emellett a papírpénzt mindig simítva, szakadásmentesen és lehetőleg borítékban illik átadni, ha ajándékról van szó.", 
+        "kep": "" 
+    },
+    {
+        "szokas": "Maszkviselés és halk beszéd (Maná)",
+        "mondat": "Japánban már jóval a világjárvány előtt alapvető udvariasság volt maszkot hordani, ha valaki kicsit is náthásnak érezte magát, hogy védje a környezetét. Ehhez társul a tömegközlekedési eszközökön betartott szigorú csend: a vonatokon és buszokon illetlenség telefonálni vagy hangosan beszélgetni, mivel a közös teret a nyugalom szigetének tekintik, ahol nem zavarhatják mások privát szféráját.",
+        "kep": ""
+    }
 ]
