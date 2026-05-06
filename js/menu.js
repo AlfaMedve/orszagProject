@@ -16,6 +16,9 @@ document.getElementById("menu").innerHTML = `
         <li class="nav-item">
           <a class="nav-link" href="japan.html" style="color: #FFFFFF;">Szokások</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="latnivalok.html" style="color: #FFFFFF;">Látnivalók</a>
+        </li>
       </ul>
     </div>
   </div>
