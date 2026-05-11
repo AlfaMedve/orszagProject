@@ -44,15 +44,15 @@ const mangaTomb = [
         allapot: "Befejezett",
         kep: "https://cdn.myanimelist.net/images/manga/3/179023.jpg"
     },
-    {
-        nev: "Dragon Ball",
-        leiras: "Egy különleges erejű fiú kalandja, aki barátaival együtt legendás sárkánygömböket keres. Útja során egyre erősebb ellenfelekkel találkozik, miközben az univerzum sorsa is veszélybe kerül.",
-        szerzo: "Akira Toriyama",
-        ev: 1984,
-        mufaj: "Akció, Sci-fi",
-        allapot: "Befejezett",
-        kep: "https://cdn.myanimelist.net/images/manga/1/209370.jpg"
-    },
+        {
+            nev: "My Hero Academy",
+            leiras: "Egy különleges képesség nélküli fiú megörökli a világ legnagyobb hősének erejét, hogy az elit akadémián kiképezve ő váljon a béke új szimbólumává a gonosz elleni harcban.",
+            szerzo: "Kōhei Horikoshi",
+            ev: 2014,
+            mufaj: "Akció, Sci-fi",
+            allapot: "Befejezett",
+            kep: "https://cdn.myanimelist.net/images/manga/1/209370.jpg"
+        },
     {
         nev: "Berserk",
         leiras: "Egy sötét, brutális fantasy világban egy magányos harcos küzd démonokkal, árulással és saját múltjával. Egy történet, ahol a túlélés ára gyakran magasabb, mint a halál.",
