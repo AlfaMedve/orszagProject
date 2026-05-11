@@ -5,7 +5,7 @@ for (const elem of japanTomb) {
             <div class="kartya">
                 <p class="text-center cimecske">${elem.szokas}</p>
                 <p class="leirasSzoveg">${elem.mondat}</p>
-                <p class="text-center"><img class="img-fluid kep" src="kepek/${elem.kep}" alt=""></p>
+                
             </div>
         </div>
     `
