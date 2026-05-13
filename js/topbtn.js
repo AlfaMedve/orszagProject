@@ -16,7 +16,4 @@ topBtn.addEventListener("click", () => {
         behavior: "smooth"
     });
 
-    // 🔊 opcionális hang (ha van file)
-    // const sound = new Audio("kepek/click.mp3");
-    // sound.play();
 });
