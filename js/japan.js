@@ -2,7 +2,7 @@ let sz=""
 for (const elem of japanTomb) {
     sz+=`
         <div class="col-sm-3">
-            <div class="kartya">
+            <div class="kartyak">
                 <p class="text-center cimecske">${elem.szokas}</p>
                 <p class="leirasSzoveg">${elem.mondat}</p>
                 

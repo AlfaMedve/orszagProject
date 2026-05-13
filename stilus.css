@@ -146,7 +146,7 @@ p{
     border: 4px solid crimson;
 }
 /* ===== ISTEN KÁRTYÁK EXTRA STÍLUS ===== */
-.kartya{
+.kartyak{
     position: relative;
     overflow: hidden;
     background-image: url(/kepek/ofuda.png);
